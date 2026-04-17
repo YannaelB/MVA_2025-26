@@ -9,7 +9,7 @@ The main notebook is too large to be hosted directly in this repository.
 https://drive.google.com/file/d/1FGUrGlep6m55JOhZZrF8JZJifzxAZhVp/view?usp=sharing
 
 The primary notebook is:
-**`XAI_0_shot_domain_generalization`**, which contains the full explainable AI (XAI) diagnostic pipeline and results.
+**`XAI_0_shot_domain_generalization`**, which contains the full XAI diagnostic pipeline and results.
 
 ---
 
